@@ -1,4 +1,4 @@
-### This is a web app made by Edson V Reginold the first of General secretary election failures on 2020 CEC Batch.
+### This is a web app made by Edson V Reginold. 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+made with love from India <3
